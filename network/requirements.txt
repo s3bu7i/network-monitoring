@@ -58,7 +58,7 @@ textfsm==1.1.0; python_version >= "3.6" and python_version < "4.0"
 twisted-iocpsupport==1.0.1; python_full_version >= "3.5.4" and python_version >= "3.6" and platform_system == "Windows"
 twisted==24.7.0; python_full_version >= "3.5.4" and python_version >= "3.6"
 txaio==21.2.1; python_version >= "3.7"
-urllib3==1.26.5; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version < "4"
+urllib3==2.5.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version < "4"
 vine==5.0.0; python_version >= "3.6"
 wcwidth==0.2.5; python_full_version >= "3.6.1" and python_version >= "3.6"
 xlsxwriter==1.4.3
