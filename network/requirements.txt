@@ -8,7 +8,7 @@ automat==20.2.0; python_full_version >= "3.5.4" and python_version >= "3.6"
 bcrypt==3.2.0; python_version >= "3.6"
 billiard==3.6.4.0; python_version >= "3.6"
 celery==5.6.0; python_version >= "3.6"
-certifi==2025.11.12; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
+certifi==2026.1.4; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0"
 cffi==1.14.5; python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.4.0" and python_version >= "3.6"
 channels-redis==3.2.0; python_version >= "3.6"
 channels==3.0.3; python_version >= "3.6"
@@ -52,15 +52,15 @@ requests==2.32.5; (python_version >= "2.7" and python_full_version < "3.0.0") or
 scp==0.13.4
 service-identity==21.1.0; python_full_version >= "3.5.4" and python_version >= "3.6"
 six==1.16.0; python_full_version >= "3.7.1" and python_version >= "3.6" and (python_version >= "3.7" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.7") and (python_version >= "3.6" and python_full_version < "3.0.0" and python_version < "4.0" or python_version >= "3.6" and python_version < "4.0" and python_full_version >= "3.3.0") and (python_version >= "3.6" and python_full_version < "3.0.0" or python_full_version >= "3.3.0" and python_version >= "3.6") and (python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.4.0")
-sqlparse==0.5.4; python_version >= "3.6"
+sqlparse==0.5.5; python_version >= "3.6"
 tenacity==7.0.0
 textfsm==1.1.0; python_version >= "3.6" and python_version < "4.0"
 twisted-iocpsupport==1.0.1; python_full_version >= "3.5.4" and python_version >= "3.6" and platform_system == "Windows"
 twisted==25.5.0; python_full_version >= "3.5.4" and python_version >= "3.6"
 txaio==21.2.1; python_version >= "3.7"
-urllib3==2.5.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version < "4"
+urllib3==2.6.0; python_version >= "2.7" and python_full_version < "3.0.0" or python_full_version >= "3.5.0" and python_version < "4"
 vine==5.0.0; python_version >= "3.6"
 wcwidth==0.2.5; python_full_version >= "3.6.1" and python_version >= "3.6"
 xlsxwriter==1.4.3
 zope.interface==5.4.0; python_full_version >= "3.5.4" and python_version >= "3.6"
-celery==5.5.3
+celery==5.6.2
